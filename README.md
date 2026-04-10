@@ -7,13 +7,12 @@ Profesional enfocado en la transformación de datos crudos en decisiones estrat�
 
 ### Áreas de Especialización
 * **Análisis Predictivo:** Implementación de modelos para la estimación de valores en el mercado inmobiliario.
-* **Ciencia de Datos:** Desarrollo de soluciones mediante Python y R para la automatización de reportes y limpieza de datos.
 * **Integración de Sistemas:** Estudio y manejo de arquitecturas de datos y APIs financieras.
 
 ---
 
 ### Competencias Técnicas
-* **Lenguajes:** Python (Pandas, Scikit-learn, NumPy), SQL, R.
+* **Lenguajes:** Python, SQL, R.
 * **Visualización:** Power BI, Matplotlib.
 * **Entornos:** Git, GitHub, VS Code.
 
@@ -27,7 +26,7 @@ Profesional enfocado en la transformación de datos crudos en decisiones estrat�
 ---
 
 ### Contacto
-* [Perfil de LinkedIn](AQUÍ_PEGA_TU_LINK)
-* [Consultoría Estratégica](AQUÍ_PEGA_EL_LINK_DE_TU_AMIGO)
+* [Perfil de LinkedIn] in/jos%C3%A9-paz-rangel-rojas-9a49b7334
+* [Consultoría Estratégica] http://soltecmty.com
 
 *"Resiliencia y consistencia en el desarrollo de soluciones basadas en datos."*
