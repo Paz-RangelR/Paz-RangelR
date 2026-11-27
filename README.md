@@ -8,7 +8,7 @@ care whether a number can be defended.
 
 ### ▶ [**Portfolio with live demos → Paz-RangelR.github.io**](https://Paz-RangelR.github.io)
 
-Five of the projects below are **interactive apps you can open right now**.
+Four of the projects below are **interactive apps you can open right now**.
 All of them run on synthetic data and need no credentials.
 
 ---
@@ -20,7 +20,7 @@ All of them run on synthetic data and need no credentials.
 | **[Property Portfolio — Geospatial](https://github.com/Paz-RangelR/property-portfolio-geo)** | Every property on one map. Areas measured geodesically from each parcel's own polygon; values restated for inflation. Built twice — R/Shiny and Python/Dash — over the same warehouse. | [▶ Demo](https://property-portfolio-geo.streamlit.app) |
 | **[Land Valuation Model](https://github.com/Paz-RangelR/property-valuation-model)** | What is this parcel worth, and how sure? Returns a **calibrated range, not a number** — 90% promised, 90.2% measured. Finds the purchases made outside the market. | [▶ Demo](https://property-valuation-model.streamlit.app) |
 | **[Retail Space Manager](https://github.com/Paz-RangelR/retail-space-manager)** | Leasing for three shopping centres. Releasing a unit **never deletes anything** — it posts negative square metres, so history and current state cannot drift apart. | [▶ Demo](https://retail-space-manager.streamlit.app) |
-| **[AML Anomaly Detection](https://github.com/Paz-RangelR/pld-anomaly-detection)** | Unsupervised review queue for money-laundering risk, when nobody has ever labelled a case. 10.1× better than chance at a fixed review budget. | [▶ Demo](https://pld-anomaly-detection.streamlit.app) |
+| **[AML Anomaly Detection](https://github.com/Paz-RangelR/pld-anomaly-detection)** | Unsupervised review queue for money-laundering risk, when nobody has ever labelled a case. 10.1× better than chance at a fixed review budget. | |
 | **[AML Regulatory Connector](https://github.com/Paz-RangelR/aml-regulatory-connector)** | Regulatory filings to Mexico's financial intelligence unit, end to end. The demo runs the **production functions, unchanged**, on invented contracts. | [▶ Demo](https://aml-regulatory-connector.streamlit.app) |
 | **[ERP → Snowflake ELT](https://github.com/Paz-RangelR/erp-snowflake-elt)** | Incremental load of 24 entities from a paginated ERP API. `MERGE` on a content hash that **excludes the timestamps**, because the ERP restamps rows it never changed. | |
 | **[Bank Reconciliation — Host-to-Host](https://github.com/Paz-RangelR/bank-reconciliation-h2h)** | Hourly reconciliation of a bank feed against ERP invoices, with a six-hour overlapping window because banks backfill. | |
